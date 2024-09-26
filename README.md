@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
 
-<h1 align="center">Hi 👋, I'm Rimandeep Singh</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer. I work in the Corporate IT Sector.</h3>
+<h1 align="left">Hi 👋, I'm Rimandeep Singh</h1>
+<p align="left">Motivated IT professional with 2 years of experience in DevOps and cloud engineering, specializing in AWS and Azure. Proficient in system administration, automation, and CI/CD pipelines, with a strong desire to further develop expertise in cloud platforms and contribute to innovative solutions in a collaborative environment.</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rimansingh/rimansingh/blob/main/coworking-male-programmer-writing-program-code.gif">
 
