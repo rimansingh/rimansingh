@@ -148,5 +148,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/rimansingh/rimansingh/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/rimansingh/rimansingh/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+
 
 ###
