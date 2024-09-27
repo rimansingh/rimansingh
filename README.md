@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Glad to see you there!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
+<h3 style="display:inline;">Glad to see you there!</h3> <p style="display:inline;"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
 
 ###
 
