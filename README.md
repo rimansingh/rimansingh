@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">- Exploring New Technologies: I enjoy diving into the latest trends in AI, automation, and cloud computing to stay on top of innovations.<br><br>- Reading & Learning: Whether it’s tech blogs, books, or tutorials, I’m always looking for ways to expand my knowledge.<br><br>- Coffee Lover: I appreciate a good cup of coffee to fuel my productivity and creativity.<br><br>- Staying Active: I like to balance my tech life with outdoor adventures or trying out new activities.<br><br>- Embracing Curiosity: Whether in work or life, I’m always curious and eager to learn new things.</p>
+<p align="left">- Exploring New Technologies: I enjoy diving into the latest trends in AI, automation, and cloud computing to stay on top of innovations.<br>- Reading & Learning: Whether it’s tech blogs, books, or tutorials, I’m always looking for ways to expand my knowledge.<br>- Coffee Lover: I appreciate a good cup of coffee to fuel my productivity and creativity.<br>- Staying Active: I like to balance my tech life with outdoor adventures or trying out new activities.<br>- Embracing Curiosity: Whether in work or life, I’m always curious and eager to learn new things.</p>
 
 ###
 
@@ -137,10 +137,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimansingh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rimansingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimansingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimansingh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rimansingh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimansingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
