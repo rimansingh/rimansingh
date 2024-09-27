@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="center">Motivated IT professional with 2 years of experience in DevOps and cloud engineering, specializing in AWS and Azure. Proficient in system administration, automation, and CI/CD pipelines. Passionate about expanding my expertise in cloud platforms and contributing to innovative solutions within a collaborative environment. Let's build the future together! 🚀</p>
+<p align="left">Motivated IT professional with 2 years of experience in DevOps and cloud engineering, specializing in AWS and Azure. Proficient in system administration, automation, and CI/CD pipelines. Passionate about expanding my expertise in cloud platforms and contributing to innovative solutions within a collaborative environment. Let's build the future together! 🚀</p>
 
 ###
 
