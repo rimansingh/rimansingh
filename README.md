@@ -1,30 +1,158 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
 
-<h1 align="left">Hi 👋, I'm Rimandeep Singh</h1>
-<p align="left">Motivated IT professional with 2 years of experience in DevOps and cloud engineering, specializing in AWS and Azure. Proficient in system administration, automation, and CI/CD pipelines, with a strong desire to further develop expertise in cloud platforms and contribute to innovative solutions in a collaborative environment.</p>
+<br clear="both">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/rimansingh/rimansingh/blob/main/coworking-male-programmer-writing-program-code.gif">
+<h2 align="left">Hi 👋, I'm Rimandeep Singh</h2>
 
-- 🌱 I’m currently learning **DevOps and Cloud Technologies**
+###
 
-- 💬 Ask me about **Cloud and System Admin**
+<h3 align="left">Glad to see you there!</h3>
 
-- 📫 How to reach me **rimandeep267@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rimandeep-singh-7069201a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimandeep-singh-7069201a3" height="30" width="40" /></a>
-<a href="https://instagram.com/rimandeep.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimandeep.singh" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimansingh&show_icons=true&locale=en&layout=compact" alt="rimansingh" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimansingh&show_icons=true&locale=en" alt="rimansingh" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimansingh&" alt="rimansingh" /></p>
+<p align="center">Motivated IT professional with 2 years of experience in DevOps and cloud engineering, specializing in AWS and Azure. Proficient in system administration, automation, and CI/CD pipelines. Passionate about expanding my expertise in cloud platforms and contributing to innovative solutions within a collaborative environment. Let's build the future together! 🚀</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rimansingh&limit=5&theme=flat&combine_all_yearly_contributions=true)
+###
+
+<div align="left">
+  <a href="rimandeep.singh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="rimandeepsingh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="rimandeep267@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rimandeep-singh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">Talking About My Personal Stuff:</h4>
+
+###
+
+<p align="left">- Exploring New Technologies: I enjoy diving into the latest trends in AI, automation, and cloud computing to stay on top of innovations.<br><br>- Reading & Learning: Whether it’s tech blogs, books, or tutorials, I’m always looking for ways to expand my knowledge.<br><br>- Coffee Lover: I appreciate a good cup of coffee to fuel my productivity and creativity.<br><br>- Staying Active: I like to balance my tech life with outdoor adventures or trying out new activities.<br><br>- Embracing Curiosity: Whether in work or life, I’m always curious and eager to learn new things.</p>
+
+###
+
+<h4 align="left">Languages & Frameworks</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="27" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="27" alt="dot-net logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27" alt="python logo"  />
+</div>
+
+###
+
+<h4 align="left">Cloud & DevOps</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="27" alt="amazonwebservices logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="27" alt="azure logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="27" alt="docker logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="27" alt="kubernetes logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="27" alt="jenkins logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="27" alt="ansible logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="27" alt="terraform logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="27" alt="grafana logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="27" alt="prometheus logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=black&style=for-the-badge" height="27" alt="argocd logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="27" alt="linux logo"  />
+</div>
+
+###
+
+<h4 align="left">Databases</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="27" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="27" alt="mongodb logo"  />
+</div>
+
+###
+
+<h4 align="left">Others Tech</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="27" alt="androidstudio logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="27" alt="firebase logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge" height="27" alt="vagrant logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="27" alt="apache logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="27" alt="nginx logo"  />
+</div>
+
+###
+
+<h3 align="left">Currently Learning</h3>
+
+###
+
+<p align="left">- Advanced AWS Cloud Services (Lambda, RDS, CloudFormation)<br>- Serverless Architectures & Event-Driven Systems<br>- Microservices with Kubernetes Orchestration</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimansingh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rimansingh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimansingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=rimandeep267&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rimansingh/rimansingh/output/snake.svg" alt="Snake animation" />
+
+###
