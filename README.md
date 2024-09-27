@@ -1,12 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
-
 <br clear="both">
 
 <h2 align="left">Hi 👋, I'm Rimandeep Singh</h2>
 
 ###
 
-<h3 align="left">Glad to see you there!</h3>
+<h3 align="left">Glad to see you there!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="rimansingh" /> </p>
 
 ###
 
