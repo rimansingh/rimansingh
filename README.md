@@ -146,7 +146,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rimansingh/rimansingh/output/snake.svg" alt="Snake animation" />
-
-###
