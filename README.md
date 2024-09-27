@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋, I'm Rimandeep Singh</h2>
 
 ###
